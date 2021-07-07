@@ -2,8 +2,8 @@
 [Youtube Channel](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 #
 
-##### Array: [Reverse the array](./ReverseArray.cpp) <yes>
-##### Array: [Find the maximum and minimum element in an array](./MaxMin.cpp),<->
+##### Array: [Reverse the array](./Arrays/ReverseArray.cpp) <yes>
+##### Array: [Find the maximum and minimum element in an array](./Arrays/MaxMin.cpp),<->
 ##### Array: "Find the ""Kth"" max and min element of an array ",<->
 ##### Array,"Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",<->
 ##### Array,Move all the negative elements to one side of the array ,<->
